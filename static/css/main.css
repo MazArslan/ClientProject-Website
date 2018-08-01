@@ -1,0 +1,109 @@
+html {
+  margin:15;
+  padding:0px;
+  background-color:rgb(237,237,237);
+  font-family: firstFont;
+}
+
+@font-face {
+  font-family: firstFont;
+  src: url('../acorn_res/myriad_pro/MyriadPro-Regular.otf');
+}
+
+.acornHeader {
+  display:inline-block;
+  width:100%
+}
+
+.acornHeader input {
+  margin-left:40px;
+  vertical-align: top;
+  width:10%;
+  padding:10px;
+  border-radius: 8px;
+  border: 1px solid rgb(112,111,111);
+}
+
+#userName{
+  position:absolute;
+  right:5px;
+  top:5px;
+}
+
+#password {
+  position:absolute;
+  right:5px;
+  top:45px;
+}
+
+#adminLogin {
+  position:absolute;
+  right:5px;
+  top:85px;
+  width:7%;
+}
+
+h1 {
+  color:rgb(28,58,93)
+}
+
+#contractorForm input {
+  display:block;
+  width: 40%;
+  margin:10px;
+  padding:10px;
+  border-radius: 8px;
+  border: 1px solid rgb(112,111,111);
+}
+
+#contractorForm select {
+  display:block;
+  width: 20%;
+  margin:10px;
+  min-height:30px;
+  border-radius: 8px;
+  border: 1px solid rgb(112,111,111);
+}
+
+h2 {
+  font-size: 20px;
+  color:rgb(28,58,93);
+}
+
+.references input {
+  margin-left: 30px;
+}
+
+.signatureConfirmBox{
+  background-color:rgb(172,171,171);
+  padding:5px;
+  border-radius:5px;
+}
+
+.signatureConfirmBox p {
+  background-color:rgb(172,171,171);
+}
+
+#sig {
+  background-color:rgb(172,171,171);
+  display:flex;
+}
+
+#checkBox {
+  width:25%;
+}
+
+#signature {
+  width:50%;
+  background-color:rgb(172,171,171);
+}
+
+#submitForm {
+  display:block;
+  min-height: 35px;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: rgb(200, 0, 0);
+  color: white;
+  margin-left: 400px;
+}

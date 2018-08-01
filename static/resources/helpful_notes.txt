@@ -1,0 +1,22 @@
+Helpful Notes
+
+Naming Schemes
+In the HTML use camelCase, in that, first words is all lower case, second word and beyond
+capitalize the first letter. No spaces, hypens, or underscores.
+
+For the all files, use snake, aka, all lower case and seperate words with underscores. This should 
+help make sure all items stay clean and easy to follow. 
+
+
+	LEARNING OUTCOMES
+
+1. Analyse and interpret basic business requirements in order to build products to meet those
+requirements by applying the basic principles of Client/Server Architectures.
+2. Create web pages using HTML and CSS.
+3. Utilize JavaScript to add interactivity to web pages.
+4. Use appropriate 3rd party libraries and frameworks for CSS and JavaScript
+5. Design, write and debug server-side code written in a suitable scripting language, to fulfil
+requests from the client.
+6. Design basic databases to support real-world applications as part of a web-application,
+demonstrating understanding of core concepts.
+7. Use a server-side framework (e.g. Flask) to assist development of server-side code. 
